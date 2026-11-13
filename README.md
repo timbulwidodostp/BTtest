@@ -1,6 +1,8 @@
 # BTtest
 Barigozzi &amp; Trapani (2022) Test Use BTtest With (In) R Software
 
+https://www.youtube.com/watch?v=i9bj49e5LyI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
